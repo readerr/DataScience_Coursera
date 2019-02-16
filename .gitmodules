@@ -7,6 +7,9 @@
 [submodule "ExData_Plotting1"]
 	path = exploratory_data_analysis/plotting_1
 	url = https://github.com/readerr/ExData_Plotting1.git
-[submodule "programming_assignment"]
-	path = getting_and_cleaning_data/programming_assignment
+[submodule "getting_and_cleaning_data"]
+	path = getting_and_cleaning_data/programming_assignment_1
 	url = https://github.com/readerr/getting_and_cleaning_data.git
+[submodule "ProgrammingAssignment2"]
+	path = getting_and_cleaning_data/programming_assignment_2
+	url = https://github.com/readerr/ProgrammingAssignment2.git

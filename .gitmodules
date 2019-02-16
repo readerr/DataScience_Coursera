@@ -3,10 +3,10 @@
 	url = https://github.com/readerr/datasharing.git
 [submodule "exploratory_data_analysis_cp2"]
 	path = exploratory_data_analysis/course_project_2
-	url = https://github.com/readerr/exploratory_data_analysis_cp2.git
+	#url = https://github.com/readerr/exploratory_data_analysis_cp2.git
 [submodule "ExData_Plotting1"]
 	path = exploratory_data_analysis/plotting_1
-	url = https://github.com/readerr/ExData_Plotting1.git
+	#url = https://github.com/readerr/ExData_Plotting1.git
 [submodule "getting_and_cleaning_data"]
 	path = getting_and_cleaning_data/programming_assignment_1
 	url = https://github.com/readerr/getting_and_cleaning_data.git

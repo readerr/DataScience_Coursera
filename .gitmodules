@@ -1,5 +1,5 @@
 [submodule "datasharing"]
-	path = the_data_scientist_toolbox/datasharing
+	path = datasharing
 	url = https://github.com/readerr/datasharing.git
 [submodule "exploratory_data_analysis_cp2"]
 	path = exploratory_data_analysis/course_project_2
